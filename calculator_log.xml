@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-01T22:27:39.237493600Z</date>
+  <millis>1669933659237</millis>
+  <nanos>493600</nanos>
+  <sequence>0</sequence>
+  <logger>simple_calculator.controller</logger>
+  <level>INFO</level>
+  <class>simple_calculator.controller</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Expression: 1+1=2</message>
+</record>
+</log>
